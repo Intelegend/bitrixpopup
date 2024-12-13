@@ -23,7 +23,7 @@ myModal.addEventListener('shown.bs.modal', function () {
   Launch demo modal
 </button>
 
-<!-- Modal -->
+<!-- Modal Тест -->
 <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content" style="width: 55rem;">

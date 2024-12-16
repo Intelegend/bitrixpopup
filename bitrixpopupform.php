@@ -18,7 +18,7 @@ myModal.addEventListener('shown.bs.modal', function () {
 })
 
 </script> 
-<!-- Button trigger -->
+<!-- Button trigger w -->
 <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal" name = "popupButton">
   Launch demo modal
 </button>
